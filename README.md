@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vishal
+- 👋 Hi, I’m vishal
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning sql, python, R 
+- 🌱 currently learning sql, python, R 
 - 📫 reach me at vishalsanjeevuni@gmail.com
 
 <!---
