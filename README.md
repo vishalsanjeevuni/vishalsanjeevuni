@@ -1,7 +1,7 @@
 - 👋 Hi, I’m vishal
 - 👀 I’m interested in Data science, Machine learning models, Natural Language Processing, Building Deep Learning Models
 - 🌱 currently learning Python, SQL, R 
-- 📫 reach me at vishalsanjeevuni@gmail.com
+- 📫 reach me at vishal.datadigits@gmail.com
 
 <!---
 vishalsanjeevuni/vishalsanjeevuni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
