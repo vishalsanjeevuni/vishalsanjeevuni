@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vishal
 - 👀 I’m interested in Data science, Machine learning models, Natural Language Processing, Building Deep Learning Models
-- 🌱 currently learning Python, SQL, R 
+- 🌱 currently learning Machine learning. 
 - 📫 reach me at vishal.datadigits@gmail.com
 
 <!---
