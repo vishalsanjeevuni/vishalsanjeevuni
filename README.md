@@ -3,7 +3,7 @@ Hi there, I'm Vishal Sanjeevuni👋 I'm a data scientist from Canada, living in 
 
 Glad to see you here! 🤩
 
-My GitHub stats 📈
+📈 My GitHub stats:
 
 [![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsanjeevuni)](https://github.com/vishalsanjeevuni/github-readme-stats)
 
