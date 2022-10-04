@@ -1,5 +1,5 @@
 
-Hi there, I'm Vishal Sanjeevuni👋 I'm a full stack data scientist. I'm from Canada, living in Toronto and currently working at [Kingsdale Advisors](https://www.kingsdaleadvisors.com/). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+Hi there, I'm Vishal Sanjeevuni👋 I'm a full stack data scientist from Canada, living in Toronto and currently working at [Kingsdale Advisors](https://www.kingsdaleadvisors.com/). You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 Glad to see you here! 🤩
 
