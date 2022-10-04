@@ -10,7 +10,7 @@ My GitHub stats 📈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsanjeevuni&layout=compact)](https://github.com/vishalsanjeevuni/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishalsanjeevuni&repo=github-readme-stats)](https://github.com/vishalsanjeevuni/github-readme-stats)
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
