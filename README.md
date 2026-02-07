@@ -6,17 +6,19 @@ Senior Data Analyst @ [UNICEF Canada](https://www.unicef.ca) — building SOC 2 
 
 4+ years of experience in Python, SQL, Azure, and AWS. Currently pursuing an **M.S. in Artificial Intelligence** (2027).
 
-## What I Work With
-
-**Cloud & Infra:** AWS (Fargate, RDS, S3), Azure (Data Factory, SQL Database, Synapse), Docker, Terraform, GitHub Actions, CI/CD
-
-**Data Platforms:** Snowflake, Databricks, Apache Kafka, Apache Airflow, PostgreSQL, SQL Server, BigQuery
-
-**Programming:** Python, SQL, Pandas, dbt, REST APIs, OAuth 2.0, ETL/ELT Pipelines
-
-**Analytics:** Power BI, Streamlit, FastAPI, Flask
-
-**ML/NLP:** BERT, Fuzzy Matching, Entity Resolution
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ## Projects
 
