@@ -1,8 +1,7 @@
 # Hi, I'm Vishal 👋
 
 📍 Toronto | 🔧 Data Engineer | 🎓 M.S. AI (2027)
-
-Currently Senior Data Analyst @ [UNICEF Canada](https://www.unicef.ca). I build production ETL pipelines, cloud infrastructure, and data systems on Azure and AWS. Previously shipped BERT-powered matching pipelines and scalable data solutions in financial services.
+I build production ETL pipelines, cloud infrastructure, and data systems on Azure and AWS. Previously shipped BERT-powered matching pipelines and scalable data solutions in financial services.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
