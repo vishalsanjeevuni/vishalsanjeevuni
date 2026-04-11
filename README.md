@@ -1,8 +1,8 @@
 # Hi, I'm Vishal 👋
 
-📍 Toronto | 🔧 Data Engineer | 🎓 M.S. AI (2027)
+📍 Toronto | 🔧 Senior Data Engineer | 🎓 M.S. AI (2027)
 
-I build production ETL pipelines, cloud infrastructure, and data systems on Azure and AWS. Previously shipped BERT-powered matching pipelines and scalable data solutions in financial services.
+I build production ETL pipelines, cloud infrastructure, and data systems on Azure and AWS. Currently working on CRM integrations and fundraising platform data infrastructure at UNICEF Canada. Previously shipped BERT-powered matching pipelines and scalable data solutions in financial services.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
@@ -17,6 +17,7 @@ I build production ETL pipelines, cloud infrastructure, and data systems on Azur
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 
 ## Projects
 
@@ -34,11 +35,9 @@ I build production ETL pipelines, cloud infrastructure, and data systems on Azur
 - AI-powered categorization, MD5 deduplication, and pre-computed analytics for O(1) dashboard queries
 
 ## Currently
-
-- Building production data infrastructure and automated dashboards at UNICEF Canada
-- Exploring entity resolution at scale using NLP and BERT matching
-- Pursuing M.S. in Artificial Intelligence @ Woolf University
+- Senior Data Engineer at UNICEF Canada, building data integrations and Power BI dashboards for fundraising and marketing teams
+- Ramping up on Salesforce Nonprofit Cloud for a multi-year CRM migration
+- Pursuing M.S. in Artificial Intelligence @ Udacity Institute of AI & Technology
 
 ## Connect
-
 [LinkedIn](https://www.linkedin.com/in/vishal-sanjeevuni) · [Portfolio](https://vishalsanjeevuni.github.io)
