@@ -26,10 +26,5 @@ I build and run data pipelines and data models in SQL and Python on Azure and AW
 - FastAPI + React + SQLAlchemy with bank-specific CSV transformers for 4 Canadian institutions
 - AI-powered categorization, MD5 deduplication, and pre-computed analytics for O(1) dashboard queries
 
-## Currently
-- Senior Data Engineer at UNICEF Canada, building data integrations and Power BI dashboards for fundraising and marketing teams
-- Studying for the Azure Databricks Data Engineer Associate exam (DP-750)
-- Pursuing M.S. in Artificial Intelligence @ Udacity Institute of AI & Technology
-
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/vishal-sanjeevuni) · [Portfolio](https://vishalsanjeevuni.github.io)
