@@ -32,4 +32,4 @@ I build and run data pipelines and data models in SQL and Python on Azure and AW
 - Pursuing M.S. in Artificial Intelligence @ Udacity Institute of AI & Technology
 
 ## Connect
-[LinkedIn](https://www.linkedin.com/in/vishal-sanjeevuni) · [Portfolio](https://vishalsanjeevuni.github.io)
+[LinkedIn](https://www.linkedin.com/in/vishal-sanjeevuni)
